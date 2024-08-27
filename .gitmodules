@@ -1,0 +1,12 @@
+[submodule "Python/Intesivao-de-Python-Hashtag-Treinamentos"]
+	path = Python/Intesivao-de-Python-Hashtag-Treinamentos
+	url = https://github.com/marianapiccolo/Intesivao-de-Python-Hashtag-Treinamentos.git
+[submodule "Python/Python-and-Finance"]
+	path = Python/Python-and-Finance
+	url = https://github.com/marianapiccolo/Python-and-Finance.git
+[submodule "Python/Pandas-Challenges"]
+	path = Python/Pandas-Challenges
+	url = https://github.com/marianapiccolo/Pandas-Challenges.git
+[submodule "Python/Python"]
+	path = Python/Python
+	url = https://github.com/marianapiccolo/Python.git
