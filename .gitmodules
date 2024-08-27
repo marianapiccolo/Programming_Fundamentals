@@ -10,3 +10,21 @@
 [submodule "Python/Python"]
 	path = Python/Python
 	url = https://github.com/marianapiccolo/Python.git
+[submodule "Java/Projeto-01-Generation"]
+	path = Java/Projeto-01-Generation
+	url = https://github.com/marianapiccolo/Projeto-01-Generation.git
+[submodule "Java/Projeto-02-Generation"]
+	path = Java/Projeto-02-Generation
+	url = https://github.com/marianapiccolo/Projeto-02-Generation.git
+[submodule "Java/Generation-Brasil"]
+	path = Java/Generation-Brasil
+	url = https://github.com/marianapiccolo/Generation-Brasil.git
+[submodule "Java/Generation-Brasil-SpringBoot"]
+	path = Java/Generation-Brasil-SpringBoot
+	url = https://github.com/marianapiccolo/Generation-Brasil-SpringBoot.git
+[submodule "Java/BlogPessoal_v2"]
+	path = Java/BlogPessoal_v2
+	url = https://github.com/marianapiccolo/BlogPessoal_v2.git
+[submodule "Java/Java"]
+	path = Java/Java
+	url = https://github.com/marianapiccolo/Java.git
