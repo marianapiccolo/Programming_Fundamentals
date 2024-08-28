@@ -28,3 +28,6 @@
 [submodule "Java/Java"]
 	path = Java/Java
 	url = https://github.com/marianapiccolo/Java.git
+[submodule "C++/Data-Structures-Course"]
+	path = C++/Data-Structures-Course
+	url = https://github.com/marianapiccolo/Data-Structures-Course
