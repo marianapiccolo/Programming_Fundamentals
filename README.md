@@ -16,10 +16,6 @@ This repository contains a collection of codes and projects that I have develope
 
 **C++** is a powerful, high-performance language that extends the C programming language with object-oriented features. It provides fine-grained control over system resources, making it ideal for system/software development, game development, and applications where performance is critical. C++ is widely respected for its efficiency and ability to handle low-level operations, but it also has a steep learning curve compared to higher-level languages. Understanding C++ is valuable for gaining a deep insight into how software interacts with hardware.
 
-## How to Use This Repository
-
-Feel free to explore the code within each language's directory. Each script or project includes comments and explanations to help you understand the purpose and functionality of the code. Whether you're looking to learn the basics, refresh your knowledge, or explore different programming paradigms, this repository serves as a resource for foundational programming concepts.
-
 ## Bibliography
 
 1. **Lutz, M.** (2013). *Learning Python*. O'Reilly Media.  
